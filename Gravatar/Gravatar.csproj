@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>9.0</LangVersion>
     <PackageId>Gravatar.Extensions</PackageId>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <License>MIT</License>
     <Authors>Erismar Oliveira</Authors>
     <Company>codigolimpo.tech</Company>
